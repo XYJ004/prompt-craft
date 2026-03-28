@@ -63,6 +63,14 @@
 | [技术选型](prompts/tech-choice.md) | 技术栈建议 | 科学的技术决策 |
 | [性能优化](prompts/performance.md) | 性能调优指南 | 系统性能提升 |
 
+### ✍️ 文档写作
+
+| 场景 | 提示词 | 效果 |
+|------|--------|------|
+| [技术文档](prompts/tech-writing.md) | 专业技术写作 | 清晰易懂的技术文档 |
+| [README 生成](prompts/readme.md) | 自动生成项目文档 | 美观专业的 README |
+| [Git 提交](prompts/commit-message.md) | 规范的提交信息 | 团队协作统一风格 |
+
 ### 🛡️ 安全相关
 
 | 场景 | 提示词 | 效果 |
